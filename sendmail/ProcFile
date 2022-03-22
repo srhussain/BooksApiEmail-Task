@@ -1,1 +1,1 @@
-web:gunicorn sendmail.wsgi --log-file -
+web:gunicorn sendmail.wsgi --log-file-
